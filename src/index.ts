@@ -1,7 +1,7 @@
 import express, { Request, Response, NextFunction} from 'express';
 import statusRoute from './routes/status.route';
 import usersRoute from './routes/users.route';
-
+//ola
 const app = express();
 
 // Configuração da Aplicação
